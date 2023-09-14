@@ -1,1 +1,1 @@
-# mycv
+ https://yeasintamzid.github.io/mycv/
