@@ -1,0 +1,159 @@
+*{
+ 
+margin: 0;
+ padding: 0;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+body{
+    color: rgb(9, 50, 50);
+    background-color: antiquewhite;
+}
+.container{
+    max-width:1000px;
+    background-color: rgb(197, 247, 230);
+    height: auto;
+    margin: 0 auto;
+     
+}
+.profile-image{
+    width: 100px;
+    height: 120px;
+    border: 1px solid white;
+    border-radius: 50%;
+    float: left;
+    margin: 20px;
+}
+div .name{
+    float: left;
+    margin-top: 30px;
+  }
+.name h1{
+    color: rgb(2, 40, 40);
+}
+.name h3{
+    color:rgb(2, 40, 40);
+} 
+header div.contact{
+    float:right;
+    margin: 20px;
+}
+header div.contact a{
+    text-decoration: none;
+     text-decoration: none;
+    color: rgba(2, 49, 23, 0.909);
+    
+}
+ header div.contact a:hover{
+    color: brown;
+}
+.cleardiv{
+    clear: both;
+   
+}
+.cleardiv hr{
+    border: 3px solid black;
+    width: 95%;
+     margin:  15px auto;
+    padding-top: 30px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+#personal section{
+    padding-top:5px;
+     
+
+}
+.contant{
+
+    background-color: rgb(197, 247, 230);
+   
+    
+
+
+}
+.left{
+    width: 30%;
+    float: left;
+
+} 
+
+ .right{
+    width: 70%;
+    float: left;
+
+ }
+ .cleardivsolid  hr{
+    border: 1px solid black;
+    width: 100%;
+     margin:  15px auto;
+    padding-top: 30px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+    
+
+ .taohid
+{
+    width:31%;
+    float: left;
+
+} 
+.tamzid{
+    width:31%;
+    float: left;
+}
+.tamziddd{
+    width:31%;
+    float:left;
+}
+
+.joynal{
+    width:45%;
+    float:left;
+
+}
+.sohagi{
+    width:45%;
+    float:left;
+
+
+}
+footer{
+    color:white;
+    background-color: black;
+    padding:  15px;
+
+}
+.containerfoot{
+    margin: 10px;
+    text-align: center;
+    
+}
+.containerfoot a{
+    color:rgb(12, 210, 228);
+    text-decoration: none;
+    margin: 10px;
+}
+.containerfoot a:hover{
+    color:rgb(228, 12, 16);
+    
+}
+
+
+.copy{
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
